@@ -22,6 +22,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| 🧪 [libbi-eval](https://github.com/irtaza129/libbi-eval) | Evaluation framework/toolkit for testing LLM & chatbot responses | Python |
 | 🩺 [Cataract-Inspector](https://github.com/irtaza129/Cataract-Inspector) | ML-based tool for detecting/analyzing cataracts from image data | Jupyter Notebook |
 | 💰 [Crypto-RAG-bot](https://github.com/irtaza129/Crypto-RAG-bot) | Retrieval-Augmented Generation bot for crypto market Q&A | Python |
 | 🏦 [fintech-agent](https://github.com/irtaza129/fintech-agent) | AI agent tailored for fintech use cases | Python |
